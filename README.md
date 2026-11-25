@@ -1,4 +1,4 @@
-# Infocur — Photography & Event Booking Platform
+# Infocuor — Photography & Event Booking Platform
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.1-6DB33F?logo=springboot&logoColor=white)
